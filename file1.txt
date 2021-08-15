@@ -1,4 +1,6 @@
 hello
 a new line of code
 making changes for conflict
+some line of code
 creating another merge conflict
+
